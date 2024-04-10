@@ -19,7 +19,7 @@ Please note that this program will **not** work for the Rolling Stone or New Yor
 ## Getting Started
 
 ### Using the Compiled Binary (Recommended)
-The easiest way to use this software is to [download]() the compiled binary (.exe) file from the GitHub Releases page. This binary is compatible with all Windows systems and has been compiled with Nuitka using the `--standalone` and `--onefile` flags for ease of use. However, the aforementioned DLL files must still be located in the same directory as the executable for the program to function. Download from the versions page on the right-hand menu and extract the contents of the zip file. To use the compiled binary, follow the syntax below:
+The easiest way to use this software is to [download](https://github.com/reconSuave/PlayboyPDF/releases/download/v1.1/PlayboyPDF-v1.1.zip) the compiled binary (.exe) file from the GitHub Releases page. This binary is compatible with all Windows systems and has been compiled with Nuitka using the `--standalone` and `--onefile` flags for ease of use. However, the aforementioned DLL files must still be located in the same directory as the executable for the program to function. Download from the versions page on the right-hand menu and extract the contents of the zip file. To use the compiled binary, follow the syntax below:
 
 ```shell
 cd <path to playboy_to_pdf.exe parent directory>
